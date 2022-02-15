@@ -1,0 +1,28 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,
+h2{
+    color: rgb(27, 102, 50);
+}
+
+h1{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+a {
+    color: rgb(79, 150, 46);
+}
+
+.title-image {
+    width: 300px;
+    height: auto;
+}
